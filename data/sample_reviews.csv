@@ -1,0 +1,33 @@
+recommendationid,review,voted_up,timestamp_created,timestamp_updated,votes_up,votes_funny,weighted_vote_score,playtime_forever,playtime_at_review,num_games_owned
+1,"玩法很爽，build 构筑变化多，手感也很好，适合碎片时间。",True,1710000000,1710000000,58,2,0.91,960,900,120
+2,"后期内容有点重复，关卡变化不足，但核心机制还是 fun。",True,1710086400,1710086400,30,1,0.78,1320,1200,80
+3,"卡顿和掉帧比较明显，fps 不稳定，希望优化。",False,1710172800,1710172800,44,0,0.86,240,200,56
+4,"价格不贵，打折入非常值，性价比很高。",True,1710259200,1710259200,22,0,0.71,480,450,40
+5,"数值平衡有问题，某些武器太强，后面就只想玩一个套路。",False,1710345600,1710345600,36,3,0.83,720,700,65
+6,"教程太少，新手引导看不懂，前半小时比较劝退。",False,1710432000,1710432000,19,0,0.62,80,70,24
+7,"联机服务器偶尔抽风，matchmaking 等很久。",False,1710518400,1710518400,12,1,0.51,300,260,33
+8,"遇到 crash 和闪退，存档差点没了，bug 需要修。",False,1710604800,1710604800,65,4,0.94,600,560,88
+9,"官方更新频率不错，patch 后体验变好了。",True,1710691200,1710691200,18,0,0.68,840,820,51
+10,"美术画风很舒服，music 和 sound 都很上头。",True,1710777600,1710777600,47,2,0.89,1020,980,72
+11,"The gameplay loop is addictive and the mechanics are easy to understand.",True,1710864000,1710864000,33,0,0.80,780,760,90
+12,"Great art style and soundtrack, visual feedback feels polished.",True,1710950400,1710950400,25,1,0.77,640,610,77
+13,"Performance is rough, stutter happens when many enemies are on screen.",False,1711036800,1711036800,41,0,0.85,360,330,49
+14,"Too repetitive after several hours, needs more content and replay goals.",False,1711123200,1711123200,28,2,0.74,540,500,68
+15,"Cheap price, worth every cent during sale.",True,1711209600,1711209600,16,0,0.66,420,400,34
+16,"Balance is off. One build is overpowered and other skills feel useless.",False,1711296000,1711296000,39,1,0.82,900,860,100
+17,"新版本活动不错，官方愿意听反馈，更新后 bug 少了。",True,1711382400,1711382400,29,0,0.79,1110,1080,59
+18,"内容量比想象中多，关卡、角色、build 都能刷很久。",True,1711468800,1711468800,55,3,0.90,1500,1450,126
+19,"操作手感一般，命中反馈不够爽，mechanic 还要打磨。",False,1711555200,1711555200,21,0,0.64,260,240,45
+20,"服务器延迟高，online co-op 经常掉线。",False,1711641600,1711641600,34,2,0.81,520,500,53
+21,"音乐很棒，音效清楚，打击反馈让玩法更爽。",True,1711728000,1711728000,24,0,0.73,700,660,48
+22,"expensive for current content, not worth full price.",False,1711814400,1711814400,23,1,0.69,180,160,61
+23,"教程如果再清楚一点就好了，新手前期容易迷路。",False,1711900800,1711900800,14,0,0.58,120,100,27
+24,"No crash so far, optimization improved after update.",True,1711987200,1711987200,20,0,0.70,430,420,39
+25,"BUG 还不少，有时怪物卡死，有时报错。",False,1712073600,1712073600,45,2,0.88,310,300,84
+26,"玩法简单但很上头，fun and replayable。",True,1712160000,1712160000,37,1,0.84,870,830,74
+27,"后期难度曲线不平滑，数值突然变硬。",False,1712246400,1712246400,26,1,0.72,660,640,52
+28,"画风独特，visual style 一眼就记住。",True,1712332800,1712332800,31,0,0.79,580,540,43
+29,"更新公告写得清楚，dev 反馈速度快。",True,1712419200,1712419200,17,0,0.65,390,360,35
+30,"内容重复和 performance 问题都存在，建议再等等 patch。",False,1712505600,1712505600,40,2,0.86,350,320,92
+31,"Build variety keeps me playing, the core gameplay is excellent.",True,1712592000,1712592000,27,0,0.76,990,950,70
+32,"Multiplayer is fun with friends, but matchmaking needs work.",True,1712678400,1712678400,19,1,0.63,720,710,66
